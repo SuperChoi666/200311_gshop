@@ -10,9 +10,9 @@
 
 
     export default {
-    components: {
-        FooterGuide
-    }
+        components: {
+            FooterGuide
+        }
     };
 </script>
 
